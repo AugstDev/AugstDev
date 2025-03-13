@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante de Análise e Desenvolvimento de Sistemas<br><br>Desenvolvedor de Software, Jogos<br><br>Gosto de Jogos, Animes, Músicas, e aprender novos idiomas.
+Estudante de Análise e Desenvolvimento de Sistemas<br><br>Desenvolvedor de Software e Jogos<br><br>Gosto de Jogos, Animes, Músicas, e aprender novos idiomas.
 
 
 ## 🌐 Socials:
